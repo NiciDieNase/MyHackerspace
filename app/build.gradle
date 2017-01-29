@@ -22,4 +22,5 @@ android {
 
 dependencies {
     compile project(':MemorizingTrustManager')
+    compile "com.android.support:support-compat:25.1.0"
 }
